@@ -38,7 +38,9 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM<img width="1035" height="545" alt="Screenshot 2025-10-23 150033" src="https://github.com/user-attachments/assets/ad5b0eb7-98f5-4861-bf86-b3a61abe0a57" />
+:
+<img width="658" height="393" alt="Screenshot 2025-10-23 150051" src="https://github.com/user-attachments/assets/fe11d26d-55a7-43ef-8959-2d40bae437a9" />
 
 CIRCUIT DIAGRAM:
 
